@@ -10,7 +10,7 @@ I have been asked to help build and evaluate deep learning models using both the
 
 I will be utilising deep learning recurrent nueral networks to model Bitcoin closing prices.
 
-###  Developed by:
+###  Developed by implmenting the following:
 
 ```
 Preparing the data for training and testing.
@@ -29,6 +29,28 @@ Evaluate the performance of each model (closing and FNG).
 
 **Which model has a lower loss?**
 
+The closing predictor had a lower loss at 0.0092 than the FNG model (0.1131).
+
+***Close*** -
+
+![image_add](images/image_closing_loss.PNG)
+
+***FNG*** -
+
+![image_add](images/image_fng_loss.PNG)
+
 **Which model tracks the actual values better over time?**
 
+The closing model tracked better over time than the FNG model.
+
+***Close*** -
+
+![image_add](images/image_closing.PNG)
+
+***FNG*** -
+
+![image_add](images/image_fng.PNG)
+
 **Which window size works best for the model?**
+
+At least a window size of 10 works best with the model.
