@@ -2,7 +2,7 @@
 
 ## Assignment by Dorothy Doutre 
 
-![image_add](images/deep-learning.jpg)
+![image_add](https://github.com/Dottie-Doutre/Unit-14_Dottie-Doutre/blob/main/Images/deep-learning.jpg?raw=true)
 
 ## Assigment Summary:
 
@@ -33,11 +33,11 @@ The closing predictor had a lower loss at 0.0092 than the FNG model (0.1131).
 
 ***Close*** -
 
-![image_add](images/image_closing_loss.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-14_Dottie-Doutre/blob/main/Images/image_closing_loss.PNG?raw=true)
 
 ***FNG*** -
 
-![image_add](images/image_fng_loss.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-14_Dottie-Doutre/blob/main/Images/image_fng_loss.PNG?raw=true)
 
 **Which model tracks the actual values better over time?**
 
@@ -45,11 +45,11 @@ The closing model tracked better over time than the FNG model.
 
 ***Close*** -
 
-![image_add](images/image_closing.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-14_Dottie-Doutre/blob/main/Images/image_closing.PNG?raw=true)
 
 ***FNG*** -
 
-![image_add](images/image_fng.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-14_Dottie-Doutre/blob/main/Images/image_fng.PNG?raw=true)
 
 **Which window size works best for the model?**
 
